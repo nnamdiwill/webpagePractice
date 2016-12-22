@@ -1,0 +1,39 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+"http://www.w3.org/TR/xhtml1/DTD/xhtml-transitional.dtd">
+
+<html>
+
+<head>
+<style>
+</style>
+</head>
+<body>
+
+<h1>Javascript can validate inputs </h1>
+
+<p> Please input a number between 1 and 10</p>
+
+<input id="numb" type="number">
+
+<button type="button" onclick="myFunction()">submit</button>
+
+<p id="demo"></p>
+
+<script>
+function myFunction() {
+var x;
+var text;
+//get the value of the input field with id="numb"
+x = document.getElementById("numb").value;
+
+//if x is not a number or less than 1 or greater than 10
+if (isNAN(x) || x < 1 || x > 10){
+text = "input not valid";
+}
+ else { text = "input ok";
+}
+document.getElementById("demo").innerHTML = text;
+}
+</script>
+</body>
+</html>

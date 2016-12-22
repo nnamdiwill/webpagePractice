@@ -1,0 +1,52 @@
+N’Namdi Williams
+115-04 145th Street,Jamaica, NY 11436| PH: 347-761-4245| nnamdiwill@gmail.com
+---------------------------------------------------------------------------------------------------------------------
+Professional Profile: Experienced Java Programmer with a knowledgeable background designing Databases, Video Games, and Websites using Netbeans and Eclipse
+
+Technical Skills and Competencies
+Systems: Windows, Mac OS, Netbeans, Eclipse
+DataBases: Relational Databases using MySql
+Languages: SQL, HTML, CSS, Java,J2EE, Perl
+
+Salary: 60K
+
+Certifications:
+•	Comptia Security+
+•	Comptia Network+
+•	CIW Javascript Specialist
+•	CIW Database Specialist	•	Comptia A+
+•	Comptia Project Management+
+•	Sun Certified Java Programmer
+
+Professional Experience--
+Field Service Technician                                                                06/2007 to present
+Intercall Systems                                                                              Mineola,NY
+•	More than 8 years experience as a Field Tech in the installation of Nurse Call Systems. This includes the running of cable through ceilings and pipes(Concrete, Sheet Rock,etc.)
+•	This includes testing, troubleshooting, and repairing of Electronic Circuits, stations, and systems down to component level.
+•	This involved the installation, Activation, and test of Windows XP Windows 7 on new computers
+•	Also means upgrading Nurse Call Software as required; Diagnosing and Repairing Computer related problems
+                                                                                                     06/2004 to 06/2007
+Fedcap Rehab Services                                                                     New York,NY
+•	Held Position as Bench Technician at Fedcap Rehab Services fulfilling client needs as they pertained to creation and test of light markers for military and commercial use
+•	Troubleshooting Electronics down to component level
+
+Education:
+Bachelors of Science: Information Technology-Software
+•	Western Governors University, Salt Lake City,UT
+•	Designed Budgeting Software using Java to give families a tool to help track Household expenses as part of my Capstone Graduation Project
+•	Class project for tracking incoming/transferring students with Relational Database using Java
+•	Developed projects that involved the use of class design from scratch and developing Subclasses to be extended(Abstract and non-abstract)
+•	Developed software involved the use of the Graphics Library to enhance code
+•	Developed 2D video games that involved developing static and non-static methods and classes
+•	Created applets in webpage design and video game design
+•	 Developed projects involving running multiple threads(Using Runnable Interface)
+•	Used arrays, arraylists, and Iterators as part of Collections in developing code  
+•	Written code using Netbeans and Eclipse
+•	Very strong in Method Creation
+•	Used CSS and Javascript to enhance Webpages
+•	Familiar with BOOTSTRAP for web design
+•	Created Databases using MySql
+•	Proficient in the use of Perl as a scripting language
+•	Proficient in algorithm design
+
+

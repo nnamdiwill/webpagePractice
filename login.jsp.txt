@@ -1,0 +1,27 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+"http://www.w3.org/TR/xhtml1/DTD/xhtml-transitional.dtd">
+
+<html>
+
+<head> 
+<style>
+</style>
+</head>
+<body> <% String username = (String)session.getAttribute("username"); %>
+       <% String password = (String)session.getAttribute("password"); %>
+<h1>Please Login</h1>
+
+<form action ="Login" method="post">
+
+<p> Please enter Username:</p><input type="text" username="username" />
+<p> Please enter password:</p><input type="text" password="password" />
+
+<button type="input"> inputs</button>
+</form>
+
+
+<script>
+
+</script>
+</body>
+</html>

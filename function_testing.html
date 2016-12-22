@@ -1,0 +1,48 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+"http://www.w3.org/TR/xhtml1/DTD/xhtml-transitional.dtd">
+
+<html>
+
+<head> 
+<style>
+</style>
+</head>
+<body>
+
+<h1>function testing </h1>
+
+<p></p>
+
+<script>
+function Rabbit(adjective) {
+    this.adjective = adjective;
+    this.describeMyself = function() {
+        console.log("I am a " + this.adjective + " rabbit");
+    }
+}
+
+// now we can easily make all of our rabbits
+function rabbit1(adjective) {
+    this.adjective = fluffy;
+    this.describeMyself = function() {
+        document.write("I am a " + this.adjective + " rabbit");
+    }
+}
+
+function rabbit2(adjective) {
+    this.adjective = happy;
+    this.describeMyself = function() {
+        document.write("I am a " + this.adjective + " rabbit");
+    }
+}
+
+var rabbit3 = function(adjective) {
+var answer = prompt("I am " + adjective + "today");
+return adjective;
+}
+document.write("The adjective is " + adjective);
+   
+
+</script>
+</body>
+</html>

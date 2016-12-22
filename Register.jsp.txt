@@ -1,0 +1,23 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+"http://www.w3.org/TR/xhtml1/DTD/xhtml-transitional.dtd">
+
+<html>
+
+<head> Register Page
+<style>
+</style>
+</head>
+<body>
+<% String name = (String) session.getAttribute("username"); %>
+<h1> Welcome, <% uName %> </h1>
+
+<form action = "VerifyUserName" method = "post">
+
+<p>Please enter username:  </p><input type="text" name = "username" />
+<button type= "submit">Username entered</button>
+
+<script>
+
+</script>
+</body>
+</html>
